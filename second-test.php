@@ -8,7 +8,5 @@
 </head>
 <body>
     <?php echo "Second testttt update" ?>
-    <p>5555 kuy arm</p>
-    ssss
 </body>
 </html>
