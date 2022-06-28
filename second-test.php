@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "Second testttt update" ?>
+    <?php echo "Second arm should update" ?>
 </body>
 </html>
